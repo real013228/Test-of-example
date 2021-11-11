@@ -1,8 +1,8 @@
 #include <string.h>
 #include <stdio.h>
 //#include <iostream>
-//#include <string>
 //using namespace std;
+//add the changes
 int main(int argc, char *argv[])
 {
     FILE *fin = fopen(argv[2],"r");
